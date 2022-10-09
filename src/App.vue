@@ -9,6 +9,8 @@
     <br>
     <span v-text="titulo" ></span>
     <br>Esta es una transmutacion de texto {{ titulo }}, con una variable prop <br>
+    <span v-text="titulo" ></span>
+    <br>Hola holaaa <br>
   </div>
 </template>
 
